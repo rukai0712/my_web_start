@@ -1,18 +1,15 @@
 {
-  "name": "es6-jspm-gulp-boilerplate",
-  "version": "0.4.2",
-  "description": "Boilerplate for ES6+ apps using JSPM + Babel",
+  "name": "gallery",
+  "version": "0.0.0",
+  "description": "",
   "main": "dist/index.html",
-  "homepage": "https://github.com/alexweber/es6-jspm-gulp-boilerplate#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alexweber/es6-jspm-gulp-boilerplate.git"
+    "url": ""
   },
-  "bugs": "https://github.com/alexweber/es6-jspm-gulp-boilerplate/issues",
   "author": {
-    "name": "Alex Weber",
-    "email": "alexweber15@gmail.com",
-    "url": "http://alexweber.com.br"
+    "name": "William.Ru",
+    "email": "will.ki.ru@hotmail.com"
   },
   "readmeFilename": "README.md",
   "license": "Unlicense",

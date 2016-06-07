@@ -1,0 +1,21 @@
+{
+  "transport": "scp",
+  "hostname": "192.168.3.254",
+  "port": "22",
+  "username": "rukai",
+  "password": "wsrk1102",
+  "target": "/home/rukai/Documents/Code/Gallery/",
+  "ignore": [
+    ".remote-sync.json",
+    ".git/**",
+    "node_modules/**",
+    "src/lib/**",
+    "src/css/**",
+    "docs/**",
+    "dist/**"
+  ],
+  "watch": [],
+  "uploadOnSave": false,
+  "useAtomicWrites": false,
+  "deleteLocal": false
+}
